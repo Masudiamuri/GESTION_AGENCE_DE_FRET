@@ -1,0 +1,39 @@
+body {
+    background-color: #f0f0f0;
+    font-family: 'Arial', sans-serif;
+}
+.container {
+    margin-top: 50px;
+}
+.card {
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-header {
+    background-color: #007bff;
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.card-body {
+    background-color: white;
+}
+.card-title {
+    margin-bottom: 0;
+}
+.card-text {
+    font-size: 0.9em;
+}
+.appointment-date {
+    font-weight: bold;
+    color: #007bff;
+}
+.greeting {
+    margin-bottom: 30px;
+    font-size: 1.2em;
+}
+.user-info {
+    margin-bottom: 50px;
+}
